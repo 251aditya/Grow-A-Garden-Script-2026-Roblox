@@ -1,0 +1,6 @@
+flask
+discord.py
+keyboard
+colorama
+pywin32
+beautifulsoup4
